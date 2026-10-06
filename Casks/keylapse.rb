@@ -1,6 +1,6 @@
 cask "keylapse" do
-  version "0.1.1"
-  sha256 "5e517543d29ca718a3d8059c05d03f6177ed8ae5faeef9501a7f6fbad06a460b"
+  version "0.1.2"
+  sha256 "a1f1cc406e3b6335167b4a34ca605e70c653f2b1f768ed81258323d6cee80c32"
 
   url "https://github.com/openchamber/keylapse/releases/download/v#{version}/Keylapse-#{version}.zip"
   name "Keylapse"
